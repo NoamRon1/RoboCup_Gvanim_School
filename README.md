@@ -9,3 +9,4 @@ sudo chown -R admin:admin /home/kev/cubie-1
 ```bash
 source /opt/ros/humble/setup.sh
 ```
+# For the full guide click [here](guide.md)
